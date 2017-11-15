@@ -18,5 +18,5 @@ Computing the neighborhood requires more computation time in a post processing s
 ## Result
 
 <p align="center">
-  <img src="https://drive.google.com/open?id=1edK3ecrRdzeTBRYck1TupTRJjM8ADIGJ" />
+  <img src="https://github.com/detel/Median-Filtering-GPU/blob/master/InputOutput.jpeg" />
 </p>
